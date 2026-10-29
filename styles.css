@@ -25,6 +25,7 @@
 }
 
 .box3{
+	grid-column: span 1;
 	background-color: #008001;
 	padding: 5px 5px 40px;
 	color: white;
@@ -48,6 +49,7 @@
 }
 
 .box6{
+	grid-column: span 1;
 	background-color: #008001;
 	padding: 5px 5px 40px;
 	color: white;
@@ -55,7 +57,7 @@
 }
 
 .box7{
-
+  grid-column: span 1;
 	background-color: #008001;
 	padding: 5px 5px 40px;
 	color: white;
@@ -63,7 +65,7 @@
 }
 
 .box8{
-
+grid-column: span 1;
 	background-color: #008001;
 	padding: 5px 5px 40px;
 	color: white;
@@ -71,6 +73,7 @@
 }
 
 .box9{
+	grid-column: span 1;
 	background-color: #008001;
 	padding: 5px 5px 40px;
 	color: white;
